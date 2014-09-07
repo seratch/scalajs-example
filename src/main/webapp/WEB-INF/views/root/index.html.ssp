@@ -1,6 +1,13 @@
-<h3>Hello World!</h3>
+<h3>Hello Scala.js!</h3>
 <hr/>
+<pre>
+./skinny scalajs:watch # Terminal A
+./skinny run           # Terminal B
+</pre>
 <p>
-Your first Skinny app works!
+Your first Scala.js app works!
+</p>
+<p>
+<img src="${uri("/assets/img/screen_shot.png")}">
 </p>
 

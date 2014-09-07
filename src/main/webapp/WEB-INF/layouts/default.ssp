@@ -32,7 +32,7 @@
     -->
 
     <!-- Scala.js default JS filename -->
-    <!--<script type="text/javascript" src="${uri("/assets/js/application-fastopt.js")}"></script>-->
+    <script type="text/javascript" src="${uri("/assets/js/application-fastopt.js")}"></script>
   </body>
 </html>
 

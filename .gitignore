@@ -64,3 +64,6 @@ ivy2
 
 node_modules
 
+src/main/webapp/assets/js/classes
+src/main/webapp/assets/js/*.map
+
